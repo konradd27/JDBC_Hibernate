@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaf47bd9-83b2-44da-af0a-15600e7c7d68" name="Changes" comment="1st commit">
+    <list default="true" id="aaf47bd9-83b2-44da-af0a-15600e7c7d68" name="Changes" comment="Fixed loop, Movie class added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MoviesApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MoviesApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager">
@@ -54,6 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Menu" />
         <item itemvalue="Application.Menu" />
       </list>
     </recent_temporary>
