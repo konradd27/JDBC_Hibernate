@@ -33,4 +33,8 @@ public class Menu {
 
         }
     }
+
+    private void showOptions(){
+        MovieLibrary
+    }
 }
